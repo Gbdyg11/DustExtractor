@@ -5,4 +5,4 @@ rar 파일 안에 사용방법 있음.
 
 
 
-[다운하기 (RAR 파일)](https://github.com/Gbdyg11/DustExtractor/main/흙먼지%20점수%20추출기.rar)
+[다운하기 (RAR 파일)](https://github.com/Gbdyg11/DustExtractor/blob/main/%ED%9D%99%EB%A8%BC%EC%A7%80%20%EC%A0%90%EC%88%98%20%EC%B6%94%EC%B6%9C%EA%B8%B0.rar)
