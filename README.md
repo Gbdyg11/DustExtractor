@@ -2,3 +2,7 @@
 rar 파일 안에 사용방법 있음.
 
 진짜 필요하다면 파이썬 안깔아도 되는 standalone exe 파일도 만들 예정
+
+
+
+[다운하기 (RAR 파일)](https://github.com/Gbdyg11/DustExtractor/main/흙먼지%20점수%20추출기.rar)
